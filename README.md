@@ -1,6 +1,6 @@
 # ETEAM 2025 — Team India Solutions
 
-This repository contains the written mathematical solutions prepared and presented by **Team India** (**aka LGPL** consisting of *Vedansh Saha*, *Madhur Choudhary*, *Shresht Bhat*,*Anshveer Bindra*,*Adhiraj Anand* and *Vamika Singhal* ) for the **European Tournament of Enthusiastic Apprentice Mathematicians (ETEAM) 2025**, held in Lyon, France, in July 2025.
+This repository contains the written mathematical solutions prepared and presented by **Team India** (**aka LGPL** consisting of *Vedansh Saha*, *Madhur Choudhary*, *Shresht Bhat*, *Anshveer Bindra*, *Adhiraj Anand* and *Vamika Singhal* ) for the **European Tournament of Enthusiastic Apprentice Mathematicians (ETEAM) 2025**, held in Lyon, France, in July 2025.
 
 ETEAM is a research-style team competition in which participants work over several months on open-ended mathematical problems. The emphasis is placed on exploration, structural understanding, and partial progress rather than closed-form solutions or routine computation. Teams are evaluated on the depth of reasoning, clarity of exposition, and their ability to discuss and defend ideas before a jury of mathematicians.
 
